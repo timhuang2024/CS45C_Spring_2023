@@ -1,4 +1,8 @@
-// Include any header files you write here:
-// (ex: #include <iostream>)
+#include <iostream>
+using namespace std;
 
-// Include your `main` function here.
+int main()
+{
+  cout << "Hello World" << endl;
+  return 0;
+}
